@@ -46,8 +46,3 @@ The model generates continuation text using different generation methods.
 1. Open the notebook in Google Colab
 2. Install required libraries
 3. Run all cells
-
-## 👨‍💻 Author
-
-Syed Ameer Sariya  
-CSE Student
